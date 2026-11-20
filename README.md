@@ -1,8 +1,8 @@
 # SimulacraBench (NeurIPS 2026 competition): team "Jude Wallis" method code
 
-This repository holds the source code for our SimulacraBench Test (Final) submission, `final_P1kg17`. The method is described in our 4-page write-up on OpenReview (NeurIPS.cc/2026/Competition/SimulacraBench).
+This repository holds the source code for our SimulacraBench Test (Final) submission, `P1kg38xwrcknfdt3bck6n2`. The method is described in our 4-page write-up on OpenReview (NeurIPS.cc/2026/Competition/SimulacraBench).
 
-**Status:** the source (`main.py`, `requirements.txt`) will be published here after the Test phase closes (20 November 2026, 12:00 UTC). Until then this repository holds the licences and the weight references only.
+**Status:** `main.py` and `requirements.txt` are the exact files of the uploaded zip (identity below). Reproduce: put the two weight files next to `main.py`, zip the folder, and run the official repository's `tools/check_submission_zip.py` and `score.py`.
 
 ## Licence
 
@@ -20,5 +20,5 @@ This repository holds the source code for our SimulacraBench Test (Final) submis
 
 ## Submission identity
 
-- Submitted zip: `simulacra_final_P1kg17_guard.zip` (md5 `8f3ded81580b7ae6f128d15b42d5bfdd`).
-- `main.py` md5: `020d4658a562f6ddff462496101102ae`.
+- Submitted zip: `simulacra_final_P1kg38xwrcknfdt3bck6n2_c1L.zip` (md5 `e07351cdaeb622a676c31e0769748495`, sha256 `8f5e9c125738e65a54dc0947139e1bc76e57e897c2a0bf29976ae39d5712300e`).
+- `main.py` md5: `6a96416842dc7b9dd9a033ecaf91fd26`.
